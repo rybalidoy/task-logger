@@ -1,0 +1,25 @@
+.tasklogger-container {
+    width: 30%;
+}
+
+.add-button {
+    padding: 0.5em 2em;
+}
+
+.task-container {
+    height: 22em;
+    overflow-y: auto;
+    
+}
+
+.taskCard:hover {
+    background-color: lightgray;
+}
+
+
+.subtask-icons {
+    width: 2em;
+    height: 2em;
+    margin: 0.3em;
+}
+
